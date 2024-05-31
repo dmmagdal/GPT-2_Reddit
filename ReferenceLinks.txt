@@ -1,3 +1,4 @@
 https://towardsdatascience.com/natural-language-generation-part-2-gpt-2-and-huggingface-f3acb35bc86a
 https://huggingface.co/gpt2?text=A+long+time+ago%2C+
 https://stackoverflow.com/questions/61841672/no-matching-distribution-found-for-torch-1-5-0cpu-on-heroku
+https://gist.github.com/mitchwongho/11266726

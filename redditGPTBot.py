@@ -11,9 +11,10 @@ import json
 import praw
 import random
 from datetime import datetime
-from transformers import pipeline, set_seed
-from transformers import TFGPT2LMHeadModel, GPT2Tokenizer, TFGPT2Model
-from transformers import GPT2Model
+#from transformers import pipeline, set_seed
+#from transformers import TFGPT2LMHeadModel, GPT2Tokenizer, TFGPT2Model
+#from transformers import GPT2Model
+import happytransformer as ht
 
 
 def main():

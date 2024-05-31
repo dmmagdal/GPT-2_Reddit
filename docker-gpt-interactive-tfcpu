@@ -1,8 +1,7 @@
 # Docker file to run a container that will run gpt2-interactive.py in
 # huggingface transformers tensorflow-cpu.
 
-# Load tensorflow image for tensorflow 2.4.0 and Python 3.
-#FROM tensorflow/tensorflow:2.4.0
+# Load transformers tensorflow cpu image from huggingface.
 FROM huggingface/transformers-tensorflow-cpu
 
 # Set locale for variable (pulled from dockerfile in original OpenAI
